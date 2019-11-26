@@ -93,17 +93,22 @@ struct Elem
 struct ChainDat
 {
 	int length;
-	int functGrps;
+	//int functGrps;
+	int dBonds, tBonds;
 	int substs;
 	ChainDat()
 	{
 		length = 1;
-		functGrps = 0;
+		dBonds = 0;
+		tBonds = 0;
+		//functGrps = 0;
 		substs = 0;
 	}
 	ChainDat(int l) :length(l)
 	{
-		functGrps = 0;
+		//functGrps = 0;
+		tBonds = 0;
+		dBonds = 0;
 		substs = 0;
 	}
 };
@@ -217,7 +222,6 @@ ChainDat findChainDat(Elem* cur)
 				cur->nextInMain = cur->singleBonds[i];
 				cur->singleBonds[i]->prevInMain = cur;
 				rec = findChainDat(cur->nextInMain);
-				r.functGrps += rec.functGrps;
 				r.substs += rec.substs;
 				r.length += rec.length;
 				return r;
@@ -238,15 +242,7 @@ ChainDat findChainDat(Elem* cur)
 				continue;
 			}
 			rec = findChainDat(cur->singleBonds[i]);
-			if (rec.functGrps > curBest.functGrps)
-			{
-				curBest = rec;
-				bestI = i;
-				continue;
-			}
-			else if (rec.functGrps == curBest.functGrps)
-			{
-				if (rec.substs > curBest.substs)
+			if (rec.substs > curBest.substs)
 				{
 					curBest = rec;
 					bestI = i;
@@ -270,7 +266,7 @@ ChainDat findChainDat(Elem* cur)
 		cur->singleBonds[bestI]->prevInMain = cur;
 		r.substs += curBest.substs;
 		r.length += curBest.length;
-		r.functGrps += curBest.functGrps;
+		//r.functGrps += curBest.functGrps;
 		return r;
 	}
 
@@ -309,9 +305,9 @@ SubstsDat findCarbonCount(Elem* c)
 				r.chlorine += temp.chlorine;
 				r.bromine += temp.bromine;
 				r.iodine += temp.iodine;
-			}
+			}  
 		}
-		return r;
+		return r;	
 	}
 }
 
