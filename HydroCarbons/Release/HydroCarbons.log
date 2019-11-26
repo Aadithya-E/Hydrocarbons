@@ -1,0 +1,20 @@
+﻿  HydroCarbons.cpp
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(3,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(137,12): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(288,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(302,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(345,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(377,17): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(413,17): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(450,17): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(486,17): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(334,4): warning C4102:  'END': unreferenced label
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(326,6): warning C4101:  'inp': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(277): warning C4715: 'findChainDat': not all control paths return a value
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(316): warning C4715: 'findCarbonCount': not all control paths return a value
+D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(195): warning C4715: 'inpRevised': not all control paths return a value
+  All 240 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HydroCarbons.vcxproj -> D:\Documents\GitHub\Hydrocarbons\HydroCarbons\Release\HydroCarbons.exe
