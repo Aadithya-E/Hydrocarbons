@@ -1,16 +1,38 @@
 ﻿  HydroCarbons.cpp
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(3,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(137,12): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(288,21): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(302,21): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(346,21): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(378,17): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(414,17): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(451,17): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(487,17): warning C4018:  '<': signed/unsigned mismatch
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(335,4): warning C4102:  'END': unreferenced label
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(326,6): warning C4101:  'inp': unreferenced local variable
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(277): warning C4715:  'findChainDat': not all control paths return a value
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(316): warning C4715:  'findCarbonCount': not all control paths return a value
-D:\Documents\GitHub\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(195): warning C4715:  'inpRevised': not all control paths return a value
-  HydroCarbons.vcxproj -> D:\Documents\GitHub\Hydrocarbons\HydroCarbons\Debug\HydroCarbons.exe
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(3,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(212,12): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(405,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(419,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(458,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(487,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(498,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(509,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(520,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(566,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(595,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(624,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(653,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(719,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(748,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(777,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(806,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(876,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(905,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(934,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(963,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1029,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1058,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1087,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1116,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1186,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1215,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1244,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1273,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1340,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1369,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1398,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(1427,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(2154,6): warning C4102:  'PRINT': unreferenced label
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(441,6): warning C4101:  'inp': unreferenced local variable
+D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\HydroCarbons.cpp(394): warning C4715:  'findChainDat': not all control paths return a value
+  HydroCarbons.vcxproj -> D:\Documents\GitHub\Hydrocarbons\Hydrocarbons\HydroCarbons\Debug\HydroCarbons.exe
